@@ -1,5 +1,9 @@
 # StockSense – Inventory Management System.
 
+Deployment Link:
+The deployed application can be accessed using the link below:
+https://stock-sense-six-psi.vercel.app/login
+
 //Deployment Note :
 Currently, the application is optimized for laptop and desktop environments. A mobile-responsive version is currently under development and will be made available soon.
 
